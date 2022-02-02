@@ -68,9 +68,11 @@ p{
 }
 .web-img{
     margin: auto;
+    width:200px;
 }
 .python-img{
     margin: auto;
+    width:200px;
 }
 .contact{
     line-height: 2;
